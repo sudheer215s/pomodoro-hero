@@ -28,3 +28,4 @@ fs.writeFileSync(path.join(publicDir, 'notification.mp3'), notificationSound);
 fs.writeFileSync(path.join(publicDir, 'ambient-coffee.mp3'), ambientSound);
 
 console.log('Audio files generated successfully!'); 
+
